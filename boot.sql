@@ -1,0 +1,3 @@
+CREATE DATABASE foo;
+USE foo;
+CREATE TABLE customers(id INTEGER, name VARCHAR(50), address VARCHAR(200))
